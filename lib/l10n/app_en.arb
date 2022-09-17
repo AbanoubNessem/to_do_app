@@ -1,0 +1,21 @@
+{
+    "toDoList": "To Do List",
+    "addNewTask": "Add New Task",
+    "pleaseEnterYourTask": "please Enter Your Task",
+    "placeEnterYourDetailsTask": "place Enter Your Details Task",
+    "enterYourTask": "Enter Your Task",
+    "enterYourDetailsTask": "Enter Your Details Task",
+    "add": "Add",
+    "done": "Done",
+    "editTask": "Edit Task",
+    "update": "Update",
+    "language" : "Language",
+    "darkMood" : "Dark Mood",
+    "lightMood" : "Light Mood",
+    "theme" : "Theme",
+    "selectedTime": "Selected Time",
+    "delete": "Delete",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    }
+}

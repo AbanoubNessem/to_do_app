@@ -1,0 +1,21 @@
+{
+    "toDoList": "قائمة العمل",
+    "addNewTask": "اضافة مهمة جديد",
+    "pleaseEnterYourTask": "من فضلك ادخل مهمتك",
+    "placeEnterYourDetailsTask": "من فضلك ادخل تفاصيل المهمة",
+    "enterYourTask": "ادخل مهمتك",
+    "enterYourDetailsTask": "ادخل تفاصيل المهمة",
+    "add": "اضف",
+    "done": "تم",
+    "editTask": "تعديل المهمة",
+    "update": "تحديث",
+    "language" : "اللغة",
+    "darkMood" : "الوضع المظلم",
+    "lightMood" : "الوضع المضئ",
+    "theme" : "الوضع",
+    "selectedTime": "اختار التاريخ",
+    "delete": "احزف",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    }
+}
